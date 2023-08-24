@@ -9,6 +9,12 @@ body {
     margin-top: 0;
 }
 
+#introduction__email {
+    float: right;
+    padding-right: 75px;
+    padding-top: 75px;
+}
+
 hr {
     height: 2px;
     background-color:#B6A39E;
